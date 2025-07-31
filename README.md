@@ -44,8 +44,9 @@ npm install
 
 2. Set environment variables:
 \`\`\`bash
+# Edit `.env.example` with your local values
 cp .env.example .env.local
-# Edit .env.local with your database URL
+# You can also edit `.env.local` after copying
 \`\`\`
 
 3. Run development server:
